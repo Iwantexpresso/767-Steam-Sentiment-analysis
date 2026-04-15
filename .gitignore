@@ -1,0 +1,4 @@
+jupyter-env/
+venv/
+.env/
+.ipynb_checkpoints/
